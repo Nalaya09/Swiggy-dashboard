@@ -5,13 +5,13 @@ An interactive, responsive dashboard for exploring restaurant data across countr
 ## Dashboard Preview
 
 ### Main dashboard
-![Swiggy dashboard overview](screenshots/dashboard-overview.png)
+![Swiggy dashboard overview](dashboard-overview.png)
 
 ### Customer engagement and rating analysis
-![Customer engagement and rating charts](screenshots/engagement-and-ratings.png)
+![Customer engagement and rating charts](engagement-and-ratings.png)
 
 ### Restaurant explorer
-![Restaurant explorer table](screenshots/restaurant-explorer.png)
+![Restaurant explorer table](restaurant-explorer.png)
 
 ## Features
 - Restaurant count and country coverage KPIs

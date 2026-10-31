@@ -30,7 +30,7 @@ HTML, CSS, JavaScript, and Chart.js.
 Open `index.html` in a modern web browser.
 
 ## Live Demo
-
+https://nalaya09.github.io/Swiggy-dashboard/
 
 ## Data note
 Average cost for two is a spend indicator in the source data, not verified restaurant revenue or profit. Currency values may differ by country and are not normalized.
